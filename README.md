@@ -8,7 +8,7 @@ A complete, from-first-principles path from programming fundamentals to producti
 
 ---
 
-## Phase 1 — Programming Foundations ✅ (in progress)
+## Phase 1 — Programming Foundations 
 `/phase-1-programming-foundations/`
 1. Python Fundamentals
 2. Advanced Python
@@ -30,7 +30,7 @@ A complete, from-first-principles path from programming fundamentals to producti
 5. Exploratory Data Analysis
 6. Feature Engineering
 
-## Phase 3 — Mathematics
+## Phase 3 — Mathematics ✅ (in progress)
 `/phase-3-mathematics/`
 1. Linear Algebra
 2. Calculus
